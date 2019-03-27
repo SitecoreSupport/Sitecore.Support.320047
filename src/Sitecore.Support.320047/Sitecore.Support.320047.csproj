@@ -61,7 +61,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="sitecore\shell\Application\Page Modes\ChromeTypes\FieldChromeType.js" />
+    <Content Include="sitecore\shell\Applications\Page Modes\ChromeTypes\FieldChromeType.js" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
